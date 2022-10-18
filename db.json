@@ -1,7 +1,7 @@
 {
   "profile-for-skillset": 
- [
+  [
    {"candidateId": 1, "fullname": "Joel Oram", "skillsets":["java","spring-boot","docker","kubernetes"],
    {"candidateId": 2, "fullname": "Mike Adam", "skillsets":["python","spring-boot","docker","kubernetes"]}
- ]
+  ]
 }
